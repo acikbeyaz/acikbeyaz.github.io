@@ -900,7 +900,7 @@ nav .btn,
   height: 55px;
   max-height: 55px;
   line-height: 53px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 0px solid #ccc !important;
 }
 .nav-bar .module,
 .nav-bar .module-group {
